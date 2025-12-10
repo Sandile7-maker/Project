@@ -4,5 +4,5 @@ AI attendance application
 git init
 git add .
 git commit -m "Initial commit"
-"C:\Users\zulun\Downloads\AI attendance.zip"
+https://drive.google.com/file/d/1GnYZnxuTe89ZhUkKjZxqJkiWgjdtrWiQ/view?usp=sharing
 git push -u origin master
