@@ -1,2 +1,2 @@
 # Project
-AI attendance project
+AI attendance application
